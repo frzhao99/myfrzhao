@@ -1,1 +1,3 @@
-我爱中国共产党
+我爱中国共产
+党Git is a distributed version control system.
+Git is free software.
